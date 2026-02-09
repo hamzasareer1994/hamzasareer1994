@@ -1,21 +1,20 @@
 ## 👋 Hi, I’m Hamza Sareer
 
-## 💫 About Me
+## About Me
 
 I’m an **AI-focused Technical Product Manager & Senior Python Engineer** with strong hands-on experience in **building, shipping, and scaling AI-powered SaaS products**.
 
-- 🚀 Currently building my own **SaaS products**, focused on real-world AI use cases  
-- 💼 **Technical Product Manager at Tech Emulsion**, owning AI features end-to-end  
-- 🐍 **5+ years of experience** in Python & Classical Machine Learning  
-- 🤖 **2+ years of experience** delivering AI products end to end  
+- Currently building my own **SaaS products**, focused on real-world AI use cases  
+- **Technical Product Manager at Tech Emulsion**, owning AI features end-to-end  
+- **5+ years of experience** in Python & Classical Machine Learning  
+- **2+ years of experience** delivering AI products end to end  
   *(data → models → APIs → cloud → monitoring)*  
-- 🧠 Comfortable operating across **engineering, product, and business**
+- Comfortable operating across **engineering, product, and business**
 
-I specialize in turning **ideas into production systems**, not just demos.
-
+### I specialize in turning **ideas into production systems**, not just demos.
 ---
 
-## 🧠 What I Bring (Recruiter-Friendly Summary)
+## 🧠 What I Bring
 
 - End-to-end **AI & ML product development**
 - Strong backend expertise with **FastAPI / Django / Flask**
