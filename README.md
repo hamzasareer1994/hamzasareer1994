@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m an **AI-focused Technical Product Manager & Senior Python Engineer** with strong hands-on experience in **building, shipping, and scaling AI-powered SaaS products**.
+I’m an **AI Solutions Architect and Senior FullStack Developer** with strong hands-on experience in **building, shipping, and scaling AI-powered SaaS products**.
 
 - Currently building my own **SaaS products**, focused on real-world AI use cases  
 - **Technical Product Manager at Tech Emulsion**, owning AI features end-to-end  
